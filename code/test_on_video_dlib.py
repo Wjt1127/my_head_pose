@@ -24,15 +24,15 @@ def parse_args():
     """Parse input arguments."""
     parser = argparse.ArgumentParser(description='Head pose estimation using the Hopenet network.')
     parser.add_argument('--gpu', dest='gpu_id', help='GPU device id to use [0]',
-            default=0, type=int)
+            default=3, type=int)
     parser.add_argument('--snapshot', dest='snapshot', help='Path of model snapshot.',
           default='../hopenet_alpha2.pkl', type=str)
     parser.add_argument('--face_model', dest='face_model', help='Path of DLIB face detection model.',
           default='../mmod_human_face_detector.dat', type=str)
     parser.add_argument('--video', dest='video_path', help='Path of video',default='../day_man_002_40_6.mp4')
-    parser.add_argument('--output_string', dest='output_string', help='String appended to output file')
-    parser.add_argument('--n_frames', dest='n_frames', help='Number of frames', default=400,type=int)
-    parser.add_argument('--fps', dest='fps', help='Frames per second of source video', type=float, default=30.)
+    parser.add_argument('--output_string', dest='output_string', help='String appended to output file',default="test")
+    parser.add_argument('--n_frames', dest='n_frames', help='Number of frames', default=600,type=int)
+    parser.add_argument('--fps', dest='fps', help='Frames per second of source video', type=float, default=60.)
     args = parser.parse_args()
     return args
 
@@ -88,8 +88,8 @@ if __name__ == '__main__':
     height = int(video.get(cv2.CAP_PROP_FRAME_HEIGHT)) # float
 
     # Define the codec and create VideoWriter object
-    fourcc = cv2.VideoWriter_fourcc(*'MJPG')
-    out = cv2.VideoWriter('output/video/output-%s.avi' % args.output_string, fourcc, args.fps, (width, height))
+    fourcc = cv2.VideoWriter_fourcc(*'mp4v')
+    out = cv2.VideoWriter('output/video/output-%s.mp4' % args.output_string, fourcc, args.fps, (width, height))
 
     # # Old cv2
     # width = int(video.get(cv2.cv.CV_CAP_PROP_FRAME_WIDTH))   # float
@@ -104,12 +104,14 @@ if __name__ == '__main__':
     frame_num = 1
 
     while frame_num <= args.n_frames:
-        print(frame_num)
+        # print(frame_num)
 
         ret,frame = video.read()
         if ret == False:
             break
-
+        
+        # cv2.imwrite("../pic/"+f'{frame_num}'+".jpg",frame)
+        # out.write(frame)
         cv2_frame = cv2.cvtColor(frame,cv2.COLOR_BGR2RGB)
 
         # Dlib detect
@@ -144,22 +146,24 @@ if __name__ == '__main__':
 
                 yaw, pitch, roll = model(img)
 
-                yaw_predicted = F.softmax(yaw)
-                pitch_predicted = F.softmax(pitch)
-                roll_predicted = F.softmax(roll)
+                yaw_predicted = F.softmax(yaw,dim = 1)
+                pitch_predicted = F.softmax(pitch,dim = 1)
+                roll_predicted = F.softmax(roll,dim = 1)
                 # Get continuous predictions in degrees.
                 yaw_predicted = torch.sum(yaw_predicted.data[0] * idx_tensor) * 3 - 99
                 pitch_predicted = torch.sum(pitch_predicted.data[0] * idx_tensor) * 3 - 99
                 roll_predicted = torch.sum(roll_predicted.data[0] * idx_tensor) * 3 - 99
 
                 # Print new frame with cube and axis
-                txt_out.write(str(frame_num) + ' %f %f %f\n' % (yaw_predicted, pitch_predicted, roll_predicted))
+                # txt_out.write(str(frame_num) + ' %f %f %f\n' % (yaw_predicted, pitch_predicted, roll_predicted))
                 # utils.plot_pose_cube(frame, yaw_predicted, pitch_predicted, roll_predicted, (x_min + x_max) / 2, (y_min + y_max) / 2, size = bbox_width)
-                utils.draw_axis(frame, yaw_predicted, pitch_predicted, roll_predicted, tdx = (x_min + x_max) / 2, tdy= (y_min + y_max) / 2, size = bbox_height/2)
+                # utils.draw_axis(frame, yaw_predicted, pitch_predicted, roll_predicted, tdx = (x_min + x_max) / 2, tdy= (y_min + y_max) / 2, size = bbox_height/2)
+                # cv2.imwrite("../pic/"+f'{frame_num}'+".jpg",frame)
+                # out.write(frame)
                 # Plot expanded bounding box
                 # cv2.rectangle(frame, (x_min, y_min), (x_max, y_max), (0,255,0), 1)
 
-        out.write(frame)
+        # out.write(frame)
         frame_num += 1
 
     out.release()
