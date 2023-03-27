@@ -1,0 +1,637 @@
+Ready to test network.
+Ready to test network.
+Ready to test network.
+Ready to test network.
+Ready to test network.
+Ready to test network.
+Ready to test network.
+Ready to test network.
+Ready to test network.
+Ready to test network.
+Ready to test network.
+Ready to test network.
+Ready to test network.
+video 13 : frame 1
+ no_yawn_num = 1 	 mar = 0.32736810836119284
+video 13 : frame 2
+ no_yawn_num = 2 	 mar = 0.2907116141613825
+video 13 : frame 3
+ yawn_num = 1 	 mar = 0.44221341442715845
+video 13 : frame 4
+ no_yawn_num = 3 	 mar = 0.33664230151236657
+video 13 : frame 5
+ no_yawn_num = 4 	 mar = 0.28586583837502744
+video 13 : frame 6
+ no_yawn_num = 5 	 mar = 0.355481194588373
+video 13 : frame 7
+ no_yawn_num = 6 	 mar = 0.29890624078608774
+video 13 : frame 8
+ no_yawn_num = 7 	 mar = 0.30539227065089186
+video 13 : frame 9
+ no_yawn_num = 8 	 mar = 0.31208678679881025
+video 13 : frame 10
+ no_yawn_num = 9 	 mar = 0.3199186158137539
+video 13 : frame 11
+ no_yawn_num = 10 	 mar = 0.3423895583283474
+video 13 : frame 12
+ yawn_num = 2 	 mar = 0.7401277802905846
+video 13 : frame 13
+ yawn_num = 3 	 mar = 0.6302902064431698
+video 13 : frame 14
+ yawn_num = 4 	 mar = 0.6772514756296205
+video 13 : frame 15
+ yawn_num = 5 	 mar = 0.5793754342668003
+video 13 : frame 16
+ yawn_num = 6 	 mar = 0.42087900780560983
+video 13 : frame 17
+ yawn_num = 7 	 mar = 0.5412914083289884
+video 13 : frame 18
+ yawn_num = 8 	 mar = 0.5220403269403816
+video 13 : frame 19
+ yawn_num = 9 	 mar = 0.5144226437857482
+video 13 : frame 20
+ yawn_num = 10 	 mar = 0.5705908350443756
+video 13 : frame 21
+ yawn_num = 11 	 mar = 0.6171789475981877
+video 13 : frame 22
+ yawn_num = 12 	 mar = 0.7501426858644826
+video 13 : frame 23
+ yawn_num = 13 	 mar = 0.7074850238773936
+video 13 : frame 24
+ yawn_num = 14 	 mar = 0.7023466560013899
+video 13 : frame 25
+ yawn_num = 15 	 mar = 0.8461634954794496
+video 13 : frame 26
+ yawn_num = 16 	 mar = 0.7616201781682004
+video 13 : frame 27
+ yawn_num = 17 	 mar = 0.8052296994648077
+video 13 : frame 28
+ yawn_num = 18 	 mar = 0.8308003911020803
+video 13 : frame 29
+ yawn_num = 19 	 mar = 0.7520089952968838
+video 13 : frame 30
+ yawn_num = 20 	 mar = 0.7257068603889983
+video 13 : frame 31
+ yawn_num = 21 	 mar = 0.6661612897697738
+video 13 : frame 32
+ yawn_num = 22 	 mar = 0.6475412053551953
+video 13 : frame 33
+ yawn_num = 23 	 mar = 0.6675718521985021
+video 13 : frame 34
+ yawn_num = 24 	 mar = 0.691035350305356
+video 13 : frame 35
+ yawn_num = 25 	 mar = 0.7999291292397258
+video 13 : frame 36
+ yawn_num = 26 	 mar = 0.6948980252105167
+video 13 : frame 37
+ yawn_num = 27 	 mar = 0.6499709727815263
+video 13 : frame 38
+ yawn_num = 28 	 mar = 0.765462560474384
+video 13 : frame 39
+ yawn_num = 29 	 mar = 0.7147521975367068
+video 13 : frame 40
+ yawn_num = 30 	 mar = 0.7997966049590528
+video 13 : frame 41
+ yawn_num = 31 	 mar = 0.6346416329371115
+video 13 : frame 42
+ yawn_num = 32 	 mar = 0.6034203026819364
+video 13 : frame 43
+ yawn_num = 33 	 mar = 0.6445682676685593
+video 13 : frame 44
+ yawn_num = 34 	 mar = 0.603837412507112
+video 13 : frame 45
+ no_yawn_num = 11 	 mar = 0.504164030917212
+video 13 : frame 46
+ yawn_num = 35 	 mar = 0.7064717978696785
+video 13 : frame 47
+ yawn_num = 36 	 mar = 0.657455653422153
+video 13 : frame 48
+ yawn_num = 37 	 mar = 0.6719072018717187
+video 13 : frame 49
+ yawn_num = 38 	 mar = 0.7805076950838843
+video 13 : frame 50
+ yawn_num = 39 	 mar = 0.6320408869710019
+video 13 : frame 51
+ yawn_num = 40 	 mar = 0.5758085269626486
+video 13 : frame 52
+ yawn_num = 41 	 mar = 0.6021649347576136
+video 13 : frame 53
+ yawn_num = 42 	 mar = 0.5267253800644357
+video 13 : frame 54
+ yawn_num = 43 	 mar = 0.5402983124799573
+video 13 : frame 55
+ yawn_num = 44 	 mar = 0.5683776403633826
+video 13 : frame 56
+ yawn_num = 45 	 mar = 0.5099036065306076
+video 13 : frame 57
+ yawn_num = 46 	 mar = 0.5503135863113157
+video 13 : frame 58
+ yawn_num = 47 	 mar = 0.5805126557491864
+video 13 : frame 59
+ yawn_num = 48 	 mar = 0.5390218864259168
+video 13 : frame 60
+ yawn_num = 49 	 mar = 0.51386427174601
+video 13 : frame 61
+ no_yawn_num = 12 	 mar = 0.40680584915662876
+video 13 : frame 62
+ yawn_num = 50 	 mar = 0.4770524669228112
+video 13 : frame 63
+ no_yawn_num = 13 	 mar = 0.543551588933894
+video 13 : frame 64
+ yawn_num = 51 	 mar = 0.520183763783194
+video 13 : frame 65
+ yawn_num = 52 	 mar = 0.725737475020452
+video 13 : frame 66
+ yawn_num = 53 	 mar = 0.6075822913171569
+video 13 : frame 67
+ yawn_num = 54 	 mar = 0.6059962458812282
+video 13 : frame 68
+ yawn_num = 55 	 mar = 0.6673205291465643
+video 13 : frame 69
+ yawn_num = 56 	 mar = 0.6701000997742064
+video 13 : frame 70
+ yawn_num = 57 	 mar = 0.6912321685914792
+video 13 : frame 71
+ yawn_num = 58 	 mar = 0.7276653803939004
+video 13 : frame 72
+ yawn_num = 59 	 mar = 0.5609368814680592
+video 13 : frame 73
+ yawn_num = 60 	 mar = 0.7405177915609907
+video 13 : frame 74
+ yawn_num = 61 	 mar = 0.5734549861487316
+video 13 : frame 75
+ yawn_num = 62 	 mar = 0.7325426398298189
+video 13 : frame 76
+ yawn_num = 63 	 mar = 0.6811728226634159
+video 13 : frame 77
+ yawn_num = 64 	 mar = 0.733220995669351
+video 13 : frame 78
+ yawn_num = 65 	 mar = 0.6274588317593272
+video 13 : frame 79
+ yawn_num = 66 	 mar = 0.7614941869484532
+video 13 : frame 80
+ yawn_num = 67 	 mar = 0.6998465578837431
+video 13 : frame 81
+ yawn_num = 68 	 mar = 0.7871271961298396
+video 13 : frame 82
+ yawn_num = 69 	 mar = 0.675898530265589
+video 13 : frame 83
+ yawn_num = 70 	 mar = 0.6737225357257222
+video 13 : frame 84
+ yawn_num = 71 	 mar = 0.7401085812798858
+video 13 : frame 85
+ yawn_num = 72 	 mar = 0.5742294834984534
+video 13 : frame 86
+ yawn_num = 73 	 mar = 0.7070796315637097
+video 13 : frame 87
+ yawn_num = 74 	 mar = 0.6683502478212728
+video 13 : frame 88
+ yawn_num = 75 	 mar = 0.7700436435419439
+video 13 : frame 89
+ yawn_num = 76 	 mar = 0.6104961563781354
+video 13 : frame 90
+ no_yawn_num = 14 	 mar = 0.4669926319246342
+video 13 : frame 91
+ yawn_num = 77 	 mar = 0.545028997591218
+video 13 : frame 92
+ yawn_num = 78 	 mar = 0.6664904746142558
+video 13 : frame 93
+ yawn_num = 79 	 mar = 0.6493831927279419
+video 13 : frame 94
+ yawn_num = 80 	 mar = 0.6349255113864548
+video 13 : frame 95
+ yawn_num = 81 	 mar = 0.5402051321201314
+video 13 : frame 96
+ yawn_num = 82 	 mar = 0.5348962097277632
+video 13 : frame 97
+ yawn_num = 83 	 mar = 0.4740150334565506
+video 13 : frame 98
+ no_yawn_num = 15 	 mar = 0.3541122129141691
+video 13 : frame 99
+ no_yawn_num = 16 	 mar = 0.2982424180992663
+video 13 : frame 100
+ no_yawn_num = 17 	 mar = 0.3071612894189812
+video 13 : frame 101
+ no_yawn_num = 18 	 mar = 0.4682147965607224
+video 13 : frame 102
+ yawn_num = 84 	 mar = 0.48386181968681735
+video 13 : frame 103
+ no_yawn_num = 19 	 mar = 0.5015565870155777
+video 13 : frame 104
+ yawn_num = 85 	 mar = 0.4716208536859567
+video 13 : frame 105
+ yawn_num = 86 	 mar = 0.5718489872926701
+video 13 : frame 106
+ yawn_num = 87 	 mar = 0.48381047128587057
+video 13 : frame 107
+ yawn_num = 88 	 mar = 0.4732527555483137
+video 13 : frame 108
+ yawn_num = 89 	 mar = 0.5294940434769689
+video 13 : frame 109
+ yawn_num = 90 	 mar = 0.528648801323158
+video 13 : frame 110
+ yawn_num = 91 	 mar = 0.5826741057831419
+video 13 : frame 111
+ no_yawn_num = 20 	 mar = 0.41079942752572157
+video 13 : frame 112
+ yawn_num = 92 	 mar = 0.5769669865389336
+video 13 : frame 113
+ yawn_num = 93 	 mar = 0.4948353846506117
+video 13 : frame 114
+ yawn_num = 94 	 mar = 0.6372623702899095
+video 13 : frame 115
+ yawn_num = 95 	 mar = 0.6401988769209005
+video 13 : frame 116
+ yawn_num = 96 	 mar = 0.620196074678115
+video 13 : frame 117
+ yawn_num = 97 	 mar = 0.5589683089142238
+video 13 : frame 118
+ yawn_num = 98 	 mar = 0.6607201716664812
+video 13 : frame 119
+ yawn_num = 99 	 mar = 0.75451046946167
+video 13 : frame 120
+ yawn_num = 100 	 mar = 0.5808134042142529
+video 13 : frame 121
+ yawn_num = 101 	 mar = 0.771059935991551
+video 13 : frame 122
+ yawn_num = 102 	 mar = 0.8103779284569027
+video 13 : frame 123
+ yawn_num = 103 	 mar = 0.8205292415689959
+video 13 : frame 124
+ yawn_num = 104 	 mar = 0.7486015839564265
+video 13 : frame 125
+ yawn_num = 105 	 mar = 0.516653520932837
+video 13 : frame 126
+ yawn_num = 106 	 mar = 0.4366446817921878
+video 13 : frame 127
+ yawn_num = 107 	 mar = 0.5446273188371326
+video 13 : frame 128
+ yawn_num = 108 	 mar = 0.828911446133423
+video 13 : frame 129
+ yawn_num = 109 	 mar = 0.8143934166377693
+video 13 : frame 130
+ yawn_num = 110 	 mar = 0.8569047577029669
+video 13 : frame 131
+ yawn_num = 111 	 mar = 0.8185480211333083
+video 13 : frame 132
+ yawn_num = 112 	 mar = 0.7683013977921069
+video 13 : frame 133
+ yawn_num = 113 	 mar = 0.6826061902658187
+video 13 : frame 134
+ yawn_num = 114 	 mar = 0.725986542812273
+video 13 : frame 135
+ yawn_num = 115 	 mar = 0.7153972858586763
+video 13 : frame 136
+ yawn_num = 116 	 mar = 0.6910833347327673
+video 13 : frame 137
+ yawn_num = 117 	 mar = 0.6594791981379003
+video 13 : frame 138
+ yawn_num = 118 	 mar = 0.6785956350254412
+video 13 : frame 139
+ yawn_num = 119 	 mar = 0.7151178553232186
+video 13 : frame 140
+ yawn_num = 120 	 mar = 0.6084209904564043
+video 13 : frame 141
+ yawn_num = 121 	 mar = 0.6845647819950652
+video 13 : frame 142
+ yawn_num = 122 	 mar = 0.6917870334480123
+video 13 : frame 143
+ yawn_num = 123 	 mar = 0.8277009001859009
+video 13 : frame 144
+ yawn_num = 124 	 mar = 0.7083525620215259
+video 13 : frame 145
+ yawn_num = 125 	 mar = 0.7175353317162386
+video 13 : frame 146
+ yawn_num = 126 	 mar = 0.6694152136769145
+video 13 : frame 147
+ yawn_num = 127 	 mar = 0.6621315723525806
+video 13 : frame 148
+ yawn_num = 128 	 mar = 0.634577547597556
+video 13 : frame 149
+ yawn_num = 129 	 mar = 0.732709192398604
+video 13 : frame 150
+ yawn_num = 130 	 mar = 0.7356243087591984
+video 13 : frame 151
+ yawn_num = 131 	 mar = 0.6577173493096716
+video 13 : frame 152
+ yawn_num = 132 	 mar = 0.6131749393928796
+video 13 : frame 153
+ yawn_num = 133 	 mar = 0.6723155956391555
+video 13 : frame 154
+ yawn_num = 134 	 mar = 0.631414542603143
+video 13 : frame 155
+ yawn_num = 135 	 mar = 0.699646981437902
+video 13 : frame 156
+ yawn_num = 136 	 mar = 0.6163152409722626
+video 13 : frame 157
+ yawn_num = 137 	 mar = 0.7312652061112918
+video 13 : frame 158
+ yawn_num = 138 	 mar = 0.5809574494796163
+video 13 : frame 159
+ yawn_num = 139 	 mar = 0.6863881721707819
+video 13 : frame 160
+ yawn_num = 140 	 mar = 0.6248288842751785
+video 13 : frame 161
+ yawn_num = 141 	 mar = 0.7498402809461636
+video 13 : frame 162
+ yawn_num = 142 	 mar = 0.7186508364420147
+video 13 : frame 163
+ yawn_num = 143 	 mar = 0.764081770819988
+video 13 : frame 164
+ yawn_num = 144 	 mar = 0.8127953175908037
+video 13 : frame 165
+ yawn_num = 145 	 mar = 0.8080648200203386
+video 13 : frame 166
+ yawn_num = 146 	 mar = 0.8249215045259606
+video 13 : frame 167
+ yawn_num = 147 	 mar = 0.7797939574826273
+video 13 : frame 168
+ yawn_num = 148 	 mar = 0.7927479680129385
+video 13 : frame 169
+ yawn_num = 149 	 mar = 0.8077029573352944
+video 13 : frame 170
+ yawn_num = 150 	 mar = 0.5825977684927258
+video 13 : frame 171
+ yawn_num = 151 	 mar = 0.7280627315792578
+video 13 : frame 172
+ yawn_num = 152 	 mar = 0.7162475432449417
+video 13 : frame 173
+ yawn_num = 153 	 mar = 0.7254845125858503
+video 13 : frame 174
+ yawn_num = 154 	 mar = 0.6075248709830243
+video 13 : frame 175
+ yawn_num = 155 	 mar = 0.6637265694066056
+video 13 : frame 176
+ yawn_num = 156 	 mar = 0.6392670359088348
+video 13 : frame 177
+ yawn_num = 157 	 mar = 0.559597769883573
+video 13 : frame 178
+ yawn_num = 158 	 mar = 0.7927390907398619
+video 13 : frame 179
+ yawn_num = 159 	 mar = 0.562814096716531
+video 13 : frame 180
+ yawn_num = 160 	 mar = 0.6185307987738599
+video 13 : frame 181
+ yawn_num = 161 	 mar = 0.6118275046108995
+video 13 : frame 182
+ yawn_num = 162 	 mar = 0.5697320058727429
+video 13 : frame 183
+ yawn_num = 163 	 mar = 0.5389469800630784
+video 13 : frame 184
+ yawn_num = 164 	 mar = 0.6408228521730476
+video 13 : frame 185
+ yawn_num = 165 	 mar = 0.6958402536899329
+video 13 : frame 186
+ yawn_num = 166 	 mar = 0.693867541957397
+video 13 : frame 187
+ yawn_num = 167 	 mar = 0.5517448119747023
+video 13 : frame 188
+ yawn_num = 168 	 mar = 0.6549843596712046
+video 13 : frame 189
+ yawn_num = 169 	 mar = 0.6669843202798285
+video 13 : frame 190
+ yawn_num = 170 	 mar = 0.6211369050759444
+video 13 : frame 191
+ yawn_num = 171 	 mar = 0.5542375213653331
+video 13 : frame 192
+ yawn_num = 172 	 mar = 0.6858067010339666
+video 13 : frame 193
+ yawn_num = 173 	 mar = 0.6028668944600274
+video 13 : frame 194
+ yawn_num = 174 	 mar = 0.6710063359637439
+video 13 : frame 195
+ yawn_num = 175 	 mar = 0.5310737843786048
+video 13 : frame 196
+ yawn_num = 176 	 mar = 0.577085563721968
+video 13 : frame 197
+ yawn_num = 177 	 mar = 0.5308084009569736
+video 13 : frame 198
+ yawn_num = 178 	 mar = 0.4725285114300173
+video 13 : frame 199
+ yawn_num = 179 	 mar = 0.5100812705147596
+video 13 : frame 200
+ no_yawn_num = 21 	 mar = 0.3769146485484801
+video 13 : frame 201
+ no_yawn_num = 22 	 mar = 0.420678284472662
+video 13 : frame 202
+ no_yawn_num = 23 	 mar = 0.30960102018262525
+video 13 : frame 203
+ no_yawn_num = 24 	 mar = 0.27776109202598254
+video 13 : frame 204
+ no_yawn_num = 25 	 mar = 0.2851967491953314
+video 13 : frame 205
+ no_yawn_num = 26 	 mar = 0.2727069216666065
+video 13 : frame 206
+ no_yawn_num = 27 	 mar = 0.36770185075598233
+video 13 : frame 207
+ yawn_num = 180 	 mar = 0.3982919821816747
+video 13 : frame 208
+ no_yawn_num = 28 	 mar = 0.27687223720738774
+video 13 : frame 209
+ no_yawn_num = 29 	 mar = 0.2989407408886984
+video 13 : frame 210
+ yawn_num = 181 	 mar = 0.3399256373126395
+video 13 : frame 211
+ no_yawn_num = 30 	 mar = 0.2846570398557065
+video 13 : frame 212
+ no_yawn_num = 31 	 mar = 0.20798099732501468
+video 13 : frame 213
+ yawn_num = 182 	 mar = 0.37132605407545793
+video 13 : frame 214
+ yawn_num = 183 	 mar = 0.4068172186439206
+video 13 : frame 215
+ yawn_num = 184 	 mar = 0.4210691554314705
+video 13 : frame 216
+ yawn_num = 185 	 mar = 0.41450846575002875
+video 13 : frame 217
+ no_yawn_num = 32 	 mar = 0.25756137244639404
+video 13 : frame 218
+ yawn_num = 186 	 mar = 0.4593754804989513
+video 13 : frame 219
+ no_yawn_num = 33 	 mar = 0.2709693810943673
+video 13 : frame 220
+ no_yawn_num = 34 	 mar = 0.37257203928395405
+video 13 : frame 221
+ no_yawn_num = 35 	 mar = 0.3274825237884985
+video 13 : frame 222
+ yawn_num = 187 	 mar = 0.4785526480493546
+video 13 : frame 223
+ yawn_num = 188 	 mar = 0.46952306677187167
+video 13 : frame 224
+ yawn_num = 189 	 mar = 0.48402877509249526
+video 13 : frame 225
+ no_yawn_num = 36 	 mar = 0.3003921039161452
+video 13 : frame 226
+ yawn_num = 190 	 mar = 0.5225808542355324
+video 13 : frame 227
+ no_yawn_num = 37 	 mar = 0.26597939219678934
+video 13 : frame 228
+ yawn_num = 191 	 mar = 0.41517735724761784
+video 13 : frame 229
+ no_yawn_num = 38 	 mar = 0.31242075876708125
+video 13 : frame 230
+ no_yawn_num = 39 	 mar = 0.3206092786662465
+video 13 : frame 231
+ no_yawn_num = 40 	 mar = 0.35514289870320903
+video 13 : frame 232
+ no_yawn_num = 41 	 mar = 0.3071168239523559
+video 13 : frame 233
+ no_yawn_num = 42 	 mar = 0.30522985270959424
+video 13 : frame 234
+ no_yawn_num = 43 	 mar = 0.3043731763303421
+video 13 : frame 235
+ no_yawn_num = 44 	 mar = 0.3079942719404892
+video 13 : frame 236
+ no_yawn_num = 45 	 mar = 0.334534447407614
+video 13 : frame 237
+ no_yawn_num = 46 	 mar = 0.341456054104874
+video 13 : frame 238
+ yawn_num = 192 	 mar = 0.5154677094556367
+video 13 : frame 239
+ yawn_num = 193 	 mar = 0.6187818092298042
+video 13 : frame 240
+ yawn_num = 194 	 mar = 0.5898163674404765
+video 13 : frame 241
+ no_yawn_num = 47 	 mar = 0.33849667552839036
+video 13 : frame 242
+ no_yawn_num = 48 	 mar = 0.33211566541681226
+video 13 : frame 243
+ no_yawn_num = 49 	 mar = 0.329830078297749
+video 13 : frame 244
+ yawn_num = 195 	 mar = 0.3924292576808768
+video 13 : frame 245
+ no_yawn_num = 50 	 mar = 0.38945091503618284
+video 13 : frame 246
+ no_yawn_num = 51 	 mar = 0.37861998935199503
+video 13 : frame 247
+ no_yawn_num = 52 	 mar = 0.32368487779362604
+video 13 : frame 248
+ no_yawn_num = 53 	 mar = 0.44290043865093803
+video 13 : frame 249
+ no_yawn_num = 54 	 mar = 0.3090122861565318
+video 13 : frame 250
+ no_yawn_num = 55 	 mar = 0.34211677150282166
+video 13 : frame 251
+ no_yawn_num = 56 	 mar = 0.3299167953942083
+video 13 : frame 252
+ no_yawn_num = 57 	 mar = 0.3088071457948086
+video 13 : frame 253
+ yawn_num = 196 	 mar = 0.3997568983431096
+video 13 : frame 254
+ yawn_num = 197 	 mar = 0.6420983651491061
+video 13 : frame 255
+ yawn_num = 198 	 mar = 0.5900266126322999
+video 13 : frame 256
+ no_yawn_num = 58 	 mar = 0.2941135904538205
+video 13 : frame 257
+ no_yawn_num = 59 	 mar = 0.3126257727827112
+video 13 : frame 258
+ no_yawn_num = 60 	 mar = 0.38405432053548166
+video 13 : frame 259
+ no_yawn_num = 61 	 mar = 0.2952422141105295
+video 13 : frame 260
+ no_yawn_num = 62 	 mar = 0.29298356503384776
+video 13 : frame 261
+ no_yawn_num = 63 	 mar = 0.2814226514602687
+video 13 : frame 262
+ no_yawn_num = 64 	 mar = 0.3476951476762724
+video 13 : frame 263
+ no_yawn_num = 65 	 mar = 0.3113395700719153
+video 13 : frame 264
+ no_yawn_num = 66 	 mar = 0.30332421120984854
+video 13 : frame 265
+ no_yawn_num = 67 	 mar = 0.35907841845899596
+video 13 : frame 266
+ no_yawn_num = 68 	 mar = 0.3070680369388817
+video 13 : frame 267
+ no_yawn_num = 69 	 mar = 0.35727181562935
+video 13 : frame 268
+ yawn_num = 199 	 mar = 0.4642992565901373
+video 13 : frame 269
+ yawn_num = 200 	 mar = 0.4506906975018916
+video 13 : frame 270
+ yawn_num = 201 	 mar = 0.501834049496544
+video 13 : frame 271
+ yawn_num = 202 	 mar = 0.531409925573304
+video 13 : frame 272
+ yawn_num = 203 	 mar = 0.6107231721448748
+video 13 : frame 273
+ no_yawn_num = 70 	 mar = 0.29317886957523337
+video 13 : frame 274
+ no_yawn_num = 71 	 mar = 0.31019633621969733
+video 13 : frame 275
+ no_yawn_num = 72 	 mar = 0.3029718427347205
+video 13 : frame 276
+ no_yawn_num = 73 	 mar = 0.30103326546642606
+video 13 : frame 277
+ no_yawn_num = 74 	 mar = 0.29727749921508084
+video 13 : frame 278
+ no_yawn_num = 75 	 mar = 0.2912066552697736
+video 13 : frame 279
+ no_yawn_num = 76 	 mar = 0.26808488220569876
+video 13 : frame 280
+ no_yawn_num = 77 	 mar = 0.2916965477258633
+video 13 : frame 281
+ no_yawn_num = 78 	 mar = 0.28455097788204187
+video 13 : frame 282
+ no_yawn_num = 79 	 mar = 0.3158826872917466
+video 13 : frame 283
+ no_yawn_num = 80 	 mar = 0.30860908451825697
+video 13 : frame 284
+ no_yawn_num = 81 	 mar = 0.2861450170899399
+video 13 : frame 285
+ yawn_num = 204 	 mar = 0.5033003640999297
+video 13 : frame 286
+ yawn_num = 205 	 mar = 0.42775734524445236
+video 13 : frame 287
+ yawn_num = 206 	 mar = 0.48047673962843135
+video 13 : frame 288
+ no_yawn_num = 82 	 mar = 0.30819950804954144
+video 13 : frame 289
+ no_yawn_num = 83 	 mar = 0.3432811587665137
+video 13 : frame 290
+ no_yawn_num = 84 	 mar = 0.3606121341776814
+video 13 : frame 291
+ no_yawn_num = 85 	 mar = 0.27247860490062425
+video 13 : frame 292
+ yawn_num = 207 	 mar = 0.532282800353918
+video 13 : frame 293
+ yawn_num = 208 	 mar = 0.5616328673317753
+video 13 : frame 294
+ yawn_num = 209 	 mar = 0.6201690762507432
+video 13 : frame 295
+ yawn_num = 210 	 mar = 0.5255586999501664
+video 13 : frame 296
+ yawn_num = 211 	 mar = 0.5509094187267742
+video 13 : frame 297
+ yawn_num = 212 	 mar = 0.532625236976447
+video 13 : frame 298
+ yawn_num = 213 	 mar = 0.5700245402622168
+video 13 : frame 299
+ yawn_num = 214 	 mar = 0.4699489133735888
+video 13 : frame 300
+ yawn_num = 215 	 mar = 0.5191753529006773
+video 13 : frame 301
+ yawn_num = 216 	 mar = 0.48212809073008195
+video 13 : frame 302
+ yawn_num = 217 	 mar = 0.599283380361745
+video 13 : frame 303
+ yawn_num = 218 	 mar = 0.44500037637864504
+video 13 : frame 304
+ yawn_num = 219 	 mar = 0.4719881067494597
+video 13 : frame 305
+ no_yawn_num = 86 	 mar = 0.3078577068194444
+video 13 : frame 306
+ no_yawn_num = 87 	 mar = 0.32289389838806276
+video 13 : frame 307
+ no_yawn_num = 88 	 mar = 0.3057907593981902
+video 13 : frame 308
+ no_yawn_num = 89 	 mar = 0.3385749529339775
+video 13 : frame 309
+ no_yawn_num = 90 	 mar = 0.27625294385413357
+video 13 : frame 310
+ no_yawn_num = 91 	 mar = 0.24846565859926
+video 13 : frame 311
+ no_yawn_num = 92 	 mar = 0.2696551272927248
+Ready to test network.
+Ready to test network.
